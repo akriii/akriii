@@ -21,7 +21,7 @@ Academic planning tool for UTP's CEE students. Students can track course complet
 ---
 
 **UTP Vendor Code Requisition (VCR)**
-`FastAPI` `React` `Supabase` `PHP`
+`PHP` `MySQL`
 
 Replaced a fully email-based vendor approval process with a centralized portal for the UTP Finance department. Built during my internship, now used in production.
 
