@@ -1,42 +1,54 @@
-# hey, i'm akmal 👋
- 
-backend developer from Perak, currently finishing my diploma at UiTM Tapah. i build APIs, break things, then figure out why.
- 
-most of my work lives around **FastAPI**, **Supabase**, and **React** — full-stack when needed, but the backend is where i actually have fun.
- 
+# Hey, I'm Akmal 👋
+
+Future developer from Perak. I build APIs, break things, then figure out why.
+
+Most of my work lives around **FastAPI**, **Supabase**, and **React** — full-stack when needed, but the backend is where i actually have fun.
+
 ---
- 
-### what i've shipped
- 
-**[CEE Study Plan](https://github.com/akriii)** — academic planning tool used by 100+ students to track course completion and GPA in real time. built with FastAPI + Supabase + React, deployed on Render/Vercel. plugged in HuggingFace for AI feedback on student performance.
- 
-**UTP Vendor Code Requisition (VCR)** — replaced an email-based approval process with a 3-stage verification portal. cut manual workload by 60%. role separation between users and 2 admin tiers so nothing slips through.
- 
+
+### Projects
+
+**CEE Study Plan**
+`FastAPI` `React` `Supabase` `HuggingFace`
+
+Academic planning tool for UTP's CEE students. Students can track course completion, monitor GPA progression in real time, and get AI-generated feedback on their performance. Deployed on Render (backend) and Vercel (frontend).
+
+- 3-layer REST API architecture
+- GPA/CGPA calculation logic with course seeding pipeline
+- HuggingFace API integration for AI performance feedback
+- 100+ active users
+
 ---
- 
-### stack i actually use
- 
+
+**UTP Vendor Code Requisition (VCR)**
+`FastAPI` `React` `Supabase` `PHP`
+
+Replaced a fully email-based vendor approval process with a centralized portal for the UTP Finance department. Built during my internship, now used in production.
+
+- 3-stage verification workflow with role-based access
+- Standard user → Admin 1 → Admin 2 approval chain
+- Cut manual verification workload by 60%
+
+---
+
+---
+
+### stack
+
 ```
 backend    →  FastAPI, Spring Boot, PHP
 frontend   →  React, Next.js
 database   →  PostgreSQL, MySQL, Supabase
-other      →  Python, Java, TensorFlow (learning)
+languages  →  Python, Java
 ```
- 
+
 ---
- 
-### bits and pieces
- 
-- 3.78 CGPA · Vice Chancellor's Award · 5× Dean's List
-- competed at UMHackathon 2026 (PEKOM) — database lead on a civic complaint system with AI image analysis
-- interned at UTP Finance dept — proposed and built their financial portal from scratch
----
- 
+
 ### find me
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akmal--fikri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmal-fikri-331a36275/)
-[![Email](https://img.shields.io/badge/email-akmal.zaki20005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akmal.zaki20005@gmail.com)
- 
+[![Email](https://img.shields.io/badge/email-mrakri15@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mrakri15@gmail.com)
+
 ---
- 
+
 ![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akriii&show_icons=true&theme=dark&hide_border=true&count_private=true)
