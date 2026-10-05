@@ -1,54 +1,57 @@
 # 👋 Hi, I'm Akmal Fikri
 
-> Backend builder from Perak, Malaysia. I design systems that are clean under the hood such as APIs, databases, and the plumbing nobody sees but everyone depends on.
+> Backend Developer & Software Engineer from Perak, Malaysia. I architect systems that are clean under the hood—designing the robust APIs, scalable databases, and critical infrastructure that everyone depends on.
 
 ---
 
-## 🧠 What I Actually Do
+## 🧠 What I Do
 
-- Build and structure **REST APIs** from scratch — proper layering, clean routing, no spaghetti
-- Design and manage **relational databases** (schema design, normalization, query tuning)
-- Connect everything together with a **React frontend** when the job calls for it
-- Translate vague requirements into working, deployable systems
-- Currently picking up **cybersecurity** — still early, but it's where I'm headed next
+- **Backend Architecture:** Build and structure REST APIs from scratch with a focus on proper layering, clean routing, and maintainable code.
+- **Database Engineering:** Design and optimize relational databases (schema design, normalization, query tuning) for performance and reliability.
+- **Full-Stack Integration:** Connect complex backend logic with React/Next.js frontends to deliver seamless, end-to-end applications.
+- **Problem Solving:** Translate complex requirements into working, deployable, and scalable systems.
 
 ---
 
 ## ⚙️ Primary Stack
 
-```
+```text
 Backend     →  FastAPI  |  Spring Boot  |  PHP
-Frontend    →  React  |  Next.js
-Database    →  PostgreSQL  |  MySQL  |  Supabase
+Frontend    →  React  |  Next.js | HTML/CSS
+Database    →  PostgreSQL  |  MySQL  |  Supabase | Aiven
 Languages   →  Python  |  Java  |  JavaScript
 Deploy      →  Render  |  Vercel
+Technology  →  Github | Docker | VMWare
 ```
 
----
+## 🚪 Currently Exploring : Backend Dev (Performance Optimization)
 
-## 🔐 Cybersecurity (In Progress)
-
-I'm actively building a foundation in cybersecurity which is network fundamentals, web vulnerabilities, and security-aware development practices. It's a long road, but it's the direction I'm committed to.
-
-No certifications yet. Just genuine interest and work in progress.
+Currently, my project and work are targeted to impprove performance of application focusing on:
+- Implementing Redis, Apache Kafka and Celery to reduce database overload
+- Preventing web and application crash during high volume of user
 
 ---
 
-## 🏅 Highlights
+## 🔐 Exploring Next: Cybersecurity & AppSec
 
-- 🎓 Bachelor of Computer Science @ **Universiti Teknologi PETRONAS** *(May 2026 – Present)*
-- 📜 Diploma in CS @ **UiTM Perak Tapah** — CGPA **3.78** | Vice Chancellor's Award | **5× Dean's List**
+I believe great backend engineering requires a security-first mindset. I am actively expanding my expertise into cybersecurity, focusing on:
+- Network fundamentals and secure system architecture.
+- Identifying and mitigating web vulnerabilities.
+- Integrating security-aware practices directly into the development lifecycle. 
+
+---
+
+## 🏅 Highlights & Milestones
+
+- 🎓 **Bachelor of Computer Science** @ Universiti Teknologi PETRONAS *(May 2026 – Present)*
+- 📜 **Diploma in CS** @ UiTM Perak Tapah — CGPA **3.78** | Vice Chancellor's Award | **5× Dean's List**
 - 🛠️ **UMHackathon 2026** @ Universiti Malaya — Lead Documentation & Back-End Dev
-- ⚡ **DEVCON 2K24: Hackblast** — Built a working prototype in 48 hours
+- ⚡ **Project Director - AWS Workshop** — Organize and orchestrated a workshop to UTP student on AWS Database.
 
 ---
 
-## 🔗 Find Me
+## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akmal--fikri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmal-fikri-331a36275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akriii.github.io-111827?style=flat&logo=github&logoColor=white)](https://akriii.github.io/akmalzaki.github.io/)
 [![Email](https://img.shields.io/badge/email-mrakri15@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mrakri15@gmail.com)
-
----
-
-![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akriii&show_icons=true&theme=dark&hide_border=true&count_private=true)
