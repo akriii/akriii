@@ -17,11 +17,11 @@
 
 ```text
 Backend     →  FastAPI  |  Spring Boot  |  PHP
-Frontend    →  React  |  Next.js | HTML/CSS
-Database    →  PostgreSQL  |  MySQL  |  Supabase | Aiven
+Frontend    →  React  |  Next.js | HTML/CSS | React Native
+Database    →  PostgreSQL  |  MySQL  |  Supabase | Aiven 
 Languages   →  Python  |  Java  |  JavaScript
 Deploy      →  Render  |  Vercel
-Technology  →  Github | Docker | VMWare
+Technology  →  Github | Docker | VMWare | AWS S3
 ```
 
 ## 🚪 Currently Exploring : Backend Dev (Performance Optimization)
