@@ -16,12 +16,11 @@
 ## ⚙️ Primary Stack
 
 ```text
-Backend     →  FastAPI  |  Spring Boot  |  PHP
+Backend     →  FastAPI  |  Spring Boot  |  PHP 
 Frontend    →  React  |  Next.js | HTML/CSS | React Native
 Database    →  PostgreSQL  |  MySQL  |  Supabase | Aiven 
-Languages   →  Python  |  Java  |  JavaScript
 Deploy      →  Render  |  Vercel
-Technology  →  Github | Docker | VMWare | AWS S3
+Technology  →  Github | Docker | VMWare | AWS S3 | Nginx | Redis 
 ```
 
 ## 🚪 Currently Exploring : Backend Dev (Performance Optimization)
