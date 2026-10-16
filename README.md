@@ -44,7 +44,7 @@ I believe great backend engineering requires a security-first mindset. I am acti
 ## 🏅 Highlights & Milestones
 
 - 🎓 **Bachelor of Computer Science** @ Universiti Teknologi PETRONAS *(May 2026 – Present)*
-- 📜 **Diploma in CS** @ UiTM Perak Tapah — CGPA **3.78** | Vice Chancellor's Award | **5× Dean's List**
+- 📜 **Diploma in CS** @ UiTM Perak Tapah — Vice Chancellor's Award | **5× Dean's List**
 - 🛠️ **UMHackathon 2026** @ Universiti Malaya — Lead Documentation & Back-End Dev
 - ⚡ **Project Director - AWS Workshop** — Organize and orchestrated a workshop to UTP student on AWS Database.
 
