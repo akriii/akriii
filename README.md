@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akmal Fikri
 
-> Backend Developer & Software Engineer from Perak, Malaysia. I architect systems that are clean under the hood—designing the robust APIs, scalable databases, and critical infrastructure that everyone depends on.
+> Backend Developer & Software Engineer from Perak, Malaysia. I architect systems that are clean under the hood while also design robust APIs, scalable databases, and critical infrastructure that everyone depends on.
 
 ---
 
