@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Akmal Fikri
+# Hi, I'm Akmal Fikri
 
 > Backend Developer & Software Engineer from Perak, Malaysia. I architect systems that are clean under the hood while also design robust APIs, scalable databases, and critical infrastructure that everyone depends on.
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - **Backend Architecture:** Build and structure REST APIs from scratch with a focus on proper layering, clean routing, and maintainable code.
 - **Database Engineering:** Design and optimize relational databases (schema design, normalization, query tuning) for performance and reliability.
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Primary Stack
+## Primary Stack
 
 ```text
 Backend     →  FastAPI  |  Spring Boot  |  PHP 
@@ -23,7 +23,7 @@ Deploy      →  Render  |  Vercel
 Technology  →  Github | Docker | VMWare | AWS S3 | Nginx | Redis 
 ```
 
-## 🚪 Currently Exploring : Backend Dev (Performance Optimization)
+## Currently Exploring : Backend Dev (Performance Optimization)
 
 Currently, my project and work are targeted to impprove performance of application focusing on:
 - Implementing Redis, Apache Kafka and Celery to reduce database overload
@@ -31,7 +31,7 @@ Currently, my project and work are targeted to impprove performance of applicati
 
 ---
 
-## 🔐 Exploring Next: Cybersecurity & AppSec
+## Exploring Next: Cybersecurity & AppSec
 
 I believe great backend engineering requires a security-first mindset. I am actively expanding my expertise into cybersecurity, focusing on:
 - Network fundamentals and secure system architecture.
@@ -40,19 +40,19 @@ I believe great backend engineering requires a security-first mindset. I am acti
 
 ---
 
-## 🏅 Highlights & Milestones
+## Highlights & Milestones
 
-- 🎓 **Bachelor of Computer Science** @ Universiti Teknologi PETRONAS *(May 2026 – Present)*
-- 📜 **Diploma in CS** @ UiTM Perak Tapah — Vice Chancellor's Award | **5× Dean's List**
-- 🏢 **Internship (Diploma)** - Proposed a financial portal for the UTP Finance and UTP DigIT department and CEE Study 
+- **Bachelor of Computer Science** @ Universiti Teknologi PETRONAS *(May 2026 – Present)*
+- **Diploma in CS** @ UiTM Perak Tapah — Vice Chancellor's Award | **5× Dean's List**
+- **Internship (Diploma)** - Proposed a financial portal for the UTP Finance and UTP DigIT department and CEE Study 
 Plan which help 100 Civil Engineering students plan their academic structure.
-- 🛠️ **UMHackathon 2026** @ Universiti Malaya — Lead Documentation & Back-End Dev
-- ⚡ **Project Director - AWS Workshop** — Organize and orchestrated a workshop to UTP student on AWS Database.
+- **UMHackathon 2026** @ Universiti Malaya — Lead Documentation & Back-End Dev
+- **Project Director - AWS Workshop** — Organize and orchestrated a workshop to UTP student on AWS Database.
 
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akmal--fikri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmal-fikri-331a36275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akriii.github.io-111827?style=flat&logo=github&logoColor=white)](https://akriii.github.io/akmalzaki.github.io/)
