@@ -55,5 +55,5 @@ Plan which help 100 Civil Engineering students plan their academic structure.
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akmal--fikri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmal-fikri-331a36275/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akriii.github.io-111827?style=flat&logo=github&logoColor=white)](https://akriii.github.io/akmalzaki.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akriii.github.io-111827?style=flat&logo=github&logoColor=white)](https://akriii.github.io)
 [![Email](https://img.shields.io/badge/email-mrakri15@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mrakri15@gmail.com)
