@@ -1,12 +1,12 @@
 # Hi, I'm Akmal Fikri
 
-> Backend Developer & Software Engineer from Perak, Malaysia. I architect systems that are clean under the hood while also design robust APIs, scalable databases, and critical infrastructure that everyone depends on.
+> Backend Developer & Software Engineer from Malaysia. I architect systems that are clean under the hood while also design robust APIs, scalable databases, and critical infrastructure that everyone depends on.
 
 ---
 
 ## What I Do
 
-- **Backend Architecture:** Build and structure REST APIs from scratch with a focus on proper layering, clean routing, and maintainable code.
+- **Backend Architecture:** Build and structure REST APIs from scratch with a focus on proper layering, clean routing and maintainable code.
 - **Database Engineering:** Design and optimize relational databases (schema design, normalization, query tuning) for performance and reliability.
 - **Full-Stack Integration:** Connect complex backend logic with React/Next.js frontends to deliver seamless, end-to-end applications.
 - **Problem Solving:** Translate complex requirements into working, deployable, and scalable systems.
@@ -19,8 +19,8 @@
 Backend     →  FastAPI  |  Spring Boot  |  PHP 
 Frontend    →  React  |  Next.js | HTML/CSS | React Native
 Database    →  PostgreSQL  |  MySQL  |  Supabase | Aiven 
-Deploy      →  Render  |  Vercel
-Technology  →  Github | Docker | VMWare | AWS S3 | Nginx | Redis 
+Deployment  →  Render  |  Vercel
+Technology  →  Github | Docker | VMWare | AWS S3 | Nginx | Redis | WebSocket
 ```
 
 ## Currently Exploring : Backend Dev (Performance Optimization)
